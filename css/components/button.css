@@ -1,0 +1,59 @@
+.btn-discover {
+	margin top: 20px;
+	background-color: red;
+	padding: 10px 30px; 
+	box-shadow: 4px 4px 1px rgba(0, 0, 0, 0.4);
+	border-radius: 4px;
+	text-decoration : none;
+	color: white;
+	font-weight: bold;
+	font-family: 'Nanum Gothic', sans-serif;
+	position: absolute;
+	right: 40px;
+	top: 400px;
+	text-align: center;
+}
+
+.btn-discover:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+}
+.start-now {
+	margin top: 20px;
+	background-color: red;
+	padding: 10px 30px; 
+	box-shadow: 4px 4px 1px rgba(0, 0, 0, 0.4);
+	border-radius: 4px;
+	text-decoration : none;
+	color: white;
+	font-weight: bold;
+	font-family: 'Nanum Gothic', sans-serif;
+	left: 1000px;
+	top: 50px;
+	text-align: center;
+}
+.star-now:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);	
+}
+
+.btn-discover2 {
+	margin top: 20px;
+	background-color: red;
+	padding: 10px 30px; 
+	box-shadow: 4px 4px 1px rgba(0, 0, 0, 0.4);
+	border-radius: 4px;
+	text-decoration : none;
+	color: white;
+	font-weight: bold;
+	font-family: 'Nanum Gothic', sans-serif;
+	position: absolute;
+	text-align: center;
+	top: 40px;
+	right: 20px;
+}
+
+.btn-discover2:hover {
+	background-color: rgba(255, 255, 255, 0.2);
+	box-shadow: 6px 6px 10px rgba(0, 0, 0, 0.4);
+}
